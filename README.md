@@ -4,6 +4,6 @@ Tester
 ##secondary
 ###tertiary
 
-*mon
-*tues
-*wed
+* mon
+* tues
+* wed
